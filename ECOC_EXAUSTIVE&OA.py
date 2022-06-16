@@ -1,14 +1,6 @@
 from sklearn import datasets
 import matplotlib.pyplot as plt
-from random import choice
 import numpy as np
-from matplotlib.animation import FuncAnimation
-from matplotlib import *
-from pylab import *
-import numpy as np
-import time
-import matplotlib.pyplot as plt
-import numdifftools as nd
 import scipy.spatial.distance as ham
 
 
